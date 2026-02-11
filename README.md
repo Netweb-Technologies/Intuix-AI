@@ -1,10 +1,4 @@
-Got it — you want the MLflow README rewritten so it becomes **IntuixAI** branded instead of MLflow, while keeping the same structure and messaging style.
-
-Below is a clean rewritten version (you can paste directly into your repo `README.md`):
-
----
-
-````md
+```
 <h1 align="center" style="border-bottom: none">
     <a href="https://intuixai.org/">
         <img alt="IntuixAI logo" src="./assets/logo.svg" width="200" />
