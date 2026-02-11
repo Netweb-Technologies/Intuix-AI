@@ -10,37 +10,6 @@ Open-Source Platform for Productionizing AI
 
 IntuixAI is an open-source developer platform to build AI/LLM applications and models with confidence. Enhance your AI applications with end-to-end **experiment tracking**, **observability**, and **evaluations**, all in one integrated platform.
 
-<div align="center">
-
-[![Python SDK](https://img.shields.io/pypi/v/intuixai)](https://pypi.org/project/intuixai/)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/intuixai)](https://pepy.tech/projects/intuixai)
-[![License](https://img.shields.io/github/license/intuixai/intuixai)](https://github.com/intuixai/intuixai/blob/main/LICENSE)
-
-<a href="https://twitter.com/intent/follow?screen_name=intuixai" target="_blank">
-<img src="https://img.shields.io/twitter/follow/intuixai?logo=X&color=%20%23f5f5f5"
-      alt="follow on X(Twitter)">
-</a>
-
-<a href="https://www.linkedin.com/company/intuixai/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
-      alt="follow on LinkedIn">
-</a>
-
-</div>
-
-<div align="center">
-   <div>
-      <a href="https://intuixai.org/"><strong>Website</strong></a> ·
-      <a href="https://intuixai.org/docs"><strong>Docs</strong></a> ·
-      <a href="https://github.com/intuixai/intuixai/issues/new/choose"><strong>Feature Request</strong></a> ·
-      <a href="https://intuixai.org/blog"><strong>News</strong></a> ·
-      <a href="https://www.youtube.com/@intuixai"><strong>YouTube</strong></a> ·
-      <a href="https://lu.ma/intuixai"><strong>Events</strong></a>
-   </div>
-</div>
-
-<br>
-
 ## 🚀 Installation
 
 To install the IntuixAI Python package, run the following command:
