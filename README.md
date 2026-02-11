@@ -1,4 +1,4 @@
-```
+
 <h1 align="center" style="border-bottom: none">
     <a href="https://intuixai.org/">
         <img alt="IntuixAI logo" src="./assets/logo.svg" width="200" />
